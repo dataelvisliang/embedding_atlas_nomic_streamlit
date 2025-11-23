@@ -107,7 +107,7 @@ if st.session_state['df_viz'] is not None:
             predicate = value.get("predicate")
             
             if predicate is not None:
-                st.subheader("📉 Deep Dive")
+                # st.subheader("📉 Deep Dive")
                 
                 try:
                     selection = duckdb.query_df(
