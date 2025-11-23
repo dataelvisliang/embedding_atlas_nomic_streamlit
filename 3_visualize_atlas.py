@@ -102,6 +102,3 @@ else:
 
 st.markdown("---")
 st.markdown("Built with [Apple Embedding Atlas](https://apple.github.io/embedding-atlas/)")
-
-# cd "C:\Users\liang\Desktop\ML Notebooks\Atlas"
-# python -m streamlit run 3_visualize_atlas.py
